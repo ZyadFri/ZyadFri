@@ -32,4 +32,4 @@ I'm a computer science student 💻 based in Morocco 🇲🇦. Passionate about 
 > — **L. Peter Deutsch**
 
 ## 😂 Random Dev Meme:
-<img src="[https://freeimage.host/i/HWooyoN](https://preview.redd.it/w62g1tovijh21.jpg?auto=webp&s=ef4809ca486ef1bc72e38c4d075a29a1d890f326)" width="500"/>
+<img src="https://preview.redd.it/w62g1tovijh21.jpg?auto=webp&s=ef4809ca486ef1bc72e38c4d075a29a1d890f326" width="500"/>
