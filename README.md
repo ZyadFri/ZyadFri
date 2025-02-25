@@ -62,8 +62,8 @@ I'm always open to collaborating on interesting projects and innovative ideas. I
 ---
 
 ## 📫 How to Reach Me:
-- LinkedIn: [Your LinkedIn Profile](your-linkedin-url)
-- Email: [Your Email Address](mailto:your-email@example.com)
+- LinkedIn: [Your LinkedIn Profile]([your-linkedin-url](https://www.linkedin.com/in/zyad-fri-021bb8347/))
+- Email: [Your Email Address](mailto:zyad.fri@)
 
 ---
 
